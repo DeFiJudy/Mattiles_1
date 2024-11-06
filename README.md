@@ -62,7 +62,7 @@ Mattiles
     // Add other commands for game logic here
     });
 
-    client.login('MTMwMzUyMDEzOTc3MzIxNDc2MA.GJZptc.tJtYB6iE2E28ObCKWEwbaQYJcjvAzR2-NYT0vM');
+    client.login('TOKEN ID');
 
 # Clone
     git clone https://github.com/DeFiJudy/Mattiles_1.git
